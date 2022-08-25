@@ -144,9 +144,6 @@ article .btn:focus{
 
     .portfolio{
         background-color: #EDBBD8;
-        min-height: 100vh;
-        display: flex;
-        align-items: center;
     }
 
     .portfolio .inside{
