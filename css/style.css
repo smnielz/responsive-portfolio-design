@@ -106,7 +106,7 @@ article .btn:focus{
     color: #252525;
 }
 
-@media (min-width:750px){
+@media (min-width:700px){
     .container{
         display: flex;
     }
